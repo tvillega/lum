@@ -24,14 +24,14 @@ OPDS, Kavita, Stump, whatever makes me avoid re-invent a front-end.
 
 ### Version 0.0.1
 
-[ ] Add database
-[ ] Add EPUB metadata parser
-[ ] Add CLI to return metadata
-[ ] Add filesystem watcher
-[ ] Add webserver
-[ ] Add OPDS
-[ ] Add auth
+- [ ] Add database
+- [ ] Add EPUB metadata parser
+- [ ] Add CLI to return metadata
+- [ ] Add filesystem watcher
+- [ ] Add webserver
+- [ ] Add OPDS
+- [ ] Add auth
 
 ### Version 0.0.2
 
-[ ] Add [libmobi](https://github.com/bfabiszewski/libmobi/) support
+- [ ] Add [libmobi](https://github.com/bfabiszewski/libmobi/) support
